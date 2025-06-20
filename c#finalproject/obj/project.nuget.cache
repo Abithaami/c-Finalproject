@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q25msNii7ac=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UT010765\\Desktop\\c#finalprojectnew - Copy\\c#finalproject\\c#finalproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UT010765\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\UT010765\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

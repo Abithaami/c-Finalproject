@@ -1,0 +1,252 @@
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.exe
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.deps.json
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.runtimeconfig.json
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.dll
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.pdb
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.CourseForm.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.ExamForm.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Form1.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.LecturerLoginForm.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MainForm.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MarksForm.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StaffLoginForm.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentForm.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentsLoginForm.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.SubjectForm.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.TimetableForm.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.GenerateResource.cache
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfoInputs.cache
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfo.cs
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.CoreCompileInputs.cache
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.dll
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\refint\c#finalproject.dll
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.pdb
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.genruntimeconfig.cache
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\ref\c#finalproject.dll
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.AdminLoginForm.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Properties.Resources.resources
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.AssemblyReference.cache
+C:\Users\abith\Desktop\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalp.27B85DD5.Up2Date
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.AssemblyReference.cache
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Properties.Resources.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.AdminLoginForm.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.CourseForm.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.ExamForm.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Form1.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.LecturerLoginForm.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MainForm.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MarksForm.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StaffLoginForm.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentForm.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentsLoginForm.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.SubjectForm.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.TimetableForm.resources
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.GenerateResource.cache
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.GeneratedMSBuildEditorConfig.editorconfig
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfoInputs.cache
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfo.cs
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.CoreCompileInputs.cache
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.dll
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\refint\c#finalproject.dll
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.pdb
+Z:\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.exe
+Z:\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.deps.json
+Z:\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.runtimeconfig.json
+Z:\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.dll
+Z:\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.pdb
+Z:\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+Z:\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+Z:\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+Z:\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+Z:\c#\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalp.27B85DD5.Up2Date
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.genruntimeconfig.cache
+Z:\c#\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\ref\c#finalproject.dll
+D:\New folder\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.exe
+D:\New folder\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.deps.json
+D:\New folder\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.runtimeconfig.json
+D:\New folder\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.dll
+D:\New folder\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.pdb
+D:\New folder\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\New folder\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\New folder\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\New folder\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\New folder\c#finalproject\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.AssemblyReference.cache
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Properties.Resources.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.AdminLoginForm.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.CourseForm.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.ExamForm.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Form1.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.LecturerLoginForm.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MainForm.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MarksForm.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StaffLoginForm.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentForm.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentsLoginForm.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.SubjectForm.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.TimetableForm.resources
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.GenerateResource.cache
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfoInputs.cache
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfo.cs
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.CoreCompileInputs.cache
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalp.27B85DD5.Up2Date
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.dll
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\refint\c#finalproject.dll
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.pdb
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.genruntimeconfig.cache
+D:\New folder\c#finalproject\c#finalproject\obj\Debug\net8.0-windows\ref\c#finalproject.dll
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.AssemblyReference.cache
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Properties.Resources.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.AdminLoginForm.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.CourseForm.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.ExamForm.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Form1.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.LecturerLoginForm.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MainForm.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MarksForm.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StaffLoginForm.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentForm.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentsLoginForm.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.SubjectForm.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.TimetableForm.resources
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.GenerateResource.cache
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfoInputs.cache
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfo.cs
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.CoreCompileInputs.cache
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.dll
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\refint\c#finalproject.dll
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.pdb
+E:\c#\c#finalprojectnew\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.exe
+E:\c#\c#finalprojectnew\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.deps.json
+E:\c#\c#finalprojectnew\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.runtimeconfig.json
+E:\c#\c#finalprojectnew\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.dll
+E:\c#\c#finalprojectnew\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.pdb
+E:\c#\c#finalprojectnew\c#finalproject\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\c#\c#finalprojectnew\c#finalproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\c#\c#finalprojectnew\c#finalproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\c#\c#finalprojectnew\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\c#\c#finalprojectnew\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\c#finalp.27B85DD5.Up2Date
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.genruntimeconfig.cache
+E:\c#\c#finalprojectnew\c#finalproject\obj\Debug\net8.0-windows\ref\c#finalproject.dll
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.AssemblyReference.cache
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Properties.Resources.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.AdminLoginForm.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.CourseForm.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.ExamForm.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Form1.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.LecturerLoginForm.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MainForm.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MarksForm.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StaffLoginForm.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentForm.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentsLoginForm.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.SubjectForm.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.TimetableForm.resources
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.GenerateResource.cache
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfoInputs.cache
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfo.cs
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.CoreCompileInputs.cache
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.dll
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\refint\c#finalproject.dll
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.pdb
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.exe
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.deps.json
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.runtimeconfig.json
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.dll
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.pdb
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalp.27B85DD5.Up2Date
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.genruntimeconfig.cache
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\ref\c#finalproject.dll
+C:\Users\abith\Desktop\New folder\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.view.RoomForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.exe
+E:\c#\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.deps.json
+E:\c#\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.runtimeconfig.json
+E:\c#\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.dll
+E:\c#\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.pdb
+E:\c#\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\c#\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\c#\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\c#\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\c#\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.AssemblyReference.cache
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Properties.Resources.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.AdminLoginForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.CourseForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.ExamForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Form1.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.LecturerLoginForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MainForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MarksForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.view.RoomForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StaffLoginForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentsLoginForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.SubjectForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.TimetableForm.resources
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.GenerateResource.cache
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfoInputs.cache
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfo.cs
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.CoreCompileInputs.cache
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalp.27B85DD5.Up2Date
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.dll
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\refint\c#finalproject.dll
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.pdb
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.genruntimeconfig.cache
+E:\c#\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\ref\c#finalproject.dll
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.exe
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.deps.json
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.runtimeconfig.json
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.dll
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\c#finalproject.pdb
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.AssemblyReference.cache
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Properties.Resources.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.AdminLoginForm.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.CourseForm.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.ExamForm.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.Form1.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.LecturerLoginForm.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MainForm.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.MarksForm.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.view.RoomForm.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StaffLoginForm.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentForm.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.StudentsLoginForm.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.view.studentsview.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.SubjectForm.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\finalproject.view.TimetableForm.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.GenerateResource.cache
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfoInputs.cache
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.AssemblyInfo.cs
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.csproj.CoreCompileInputs.cache
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalp.27B85DD5.Up2Date
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.dll
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\refint\c#finalproject.dll
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.pdb
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c#finalproject.genruntimeconfig.cache
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\ref\c#finalproject.dll
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.view.viewcourses.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.view.marksview.resources
+C:\Users\UT010765\Desktop\c#finalprojectnew - Copy\c#finalproject\obj\Debug\net8.0-windows\c_finalproject.view.viewtimetable.resources
