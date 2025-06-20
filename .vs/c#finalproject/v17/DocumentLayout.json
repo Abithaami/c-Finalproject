@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UT010765\\Desktop\\c#finalprojectnew - Copy\\",
+  "WorkspaceRootPath": "C:\\Users\\UT010765\\Desktop\\New folder\\c-Finalproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD22C5F7-9780-4E18-9F35-CF153699642B}|c#finalproject\\c#finalproject.csproj|c:\\users\\ut010765\\desktop\\c#finalprojectnew - copy\\c#finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD22C5F7-9780-4E18-9F35-CF153699642B}|c#finalproject\\c#finalproject.csproj|c:\\users\\ut010765\\desktop\\new folder\\c-finalproject\\c#finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD22C5F7-9780-4E18-9F35-CF153699642B}|c#finalproject\\c#finalproject.csproj|solutionrelative:c#finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD22C5F7-9780-4E18-9F35-CF153699642B}|c#finalproject\\c#finalproject.csproj|C:\\Users\\UT010765\\Desktop\\c#finalprojectnew - Copy\\c#finalproject\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AD22C5F7-9780-4E18-9F35-CF153699642B}|c#finalproject\\c#finalproject.csproj|C:\\Users\\UT010765\\Desktop\\New folder\\c-Finalproject\\c#finalproject\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AD22C5F7-9780-4E18-9F35-CF153699642B}|c#finalproject\\c#finalproject.csproj|solutionrelative:c#finalproject\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,23 +28,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\UT010765\\Desktop\\c#finalprojectnew - Copy\\c#finalproject\\view\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\UT010765\\Desktop\\New folder\\c-Finalproject\\c#finalproject\\view\\Form1.cs",
               "RelativeDocumentMoniker": "c#finalproject\\view\\Form1.cs",
               "ToolTip": "C:\\Users\\UT010765\\Desktop\\c#finalprojectnew - Copy\\c#finalproject\\view\\Form1.cs [Design]",
-              "RelativeToolTip": "c#finalproject\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\c#finalprojectnew - Copy\\c#finalproject\\view\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T08:55:53.315Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-19T08:55:53.315Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UT010765\\Desktop\\c#finalprojectnew - Copy\\c#finalproject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UT010765\\Desktop\\New folder\\c-Finalproject\\c#finalproject\\Program.cs",
               "RelativeDocumentMoniker": "c#finalproject\\Program.cs",
-              "ToolTip": "C:\\Users\\UT010765\\Desktop\\c#finalprojectnew - Copy\\c#finalproject\\Program.cs",
+              "ToolTip": "C:\\Users\\UT010765\\Desktop\\New folder\\c-Finalproject\\c#finalproject\\Program.cs",
               "RelativeToolTip": "c#finalproject\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T05:35:05.887Z",
               "EditorCaption": ""

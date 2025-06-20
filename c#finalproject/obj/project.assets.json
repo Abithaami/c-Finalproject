@@ -87,11 +87,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UT010765\\Desktop\\c#finalprojectnew - Copy\\c#finalproject\\c#finalproject.csproj",
+      "projectUniqueName": "C:\\Users\\UT010765\\Desktop\\New folder\\c-Finalproject\\c#finalproject\\c#finalproject.csproj",
       "projectName": "c#finalproject",
-      "projectPath": "C:\\Users\\UT010765\\Desktop\\c#finalprojectnew - Copy\\c#finalproject\\c#finalproject.csproj",
+      "projectPath": "C:\\Users\\UT010765\\Desktop\\New folder\\c-Finalproject\\c#finalproject\\c#finalproject.csproj",
       "packagesPath": "C:\\Users\\UT010765\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UT010765\\Desktop\\c#finalprojectnew - Copy\\c#finalproject\\obj\\",
+      "outputPath": "C:\\Users\\UT010765\\Desktop\\New folder\\c-Finalproject\\c#finalproject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
